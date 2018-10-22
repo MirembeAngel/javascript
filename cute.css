@@ -1,0 +1,17 @@
+div{background-color: blue;
+    width: 200px;
+    color: white;
+    padding: 30px;
+}
+#cat{
+    color: red;
+}
+#cow{background-color: pink;
+    width: 200px;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+#dog{text-decoration-color: azure;
+
+}

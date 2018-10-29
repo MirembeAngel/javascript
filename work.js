@@ -89,4 +89,7 @@ document.onmouseover = function () {
 document.onmouseout = function () {
     div.innerHTML ='thank you!';
 }
+document.onmouseout = function () {
+    div.innerHTML ='Hi.....!';
+}
 
